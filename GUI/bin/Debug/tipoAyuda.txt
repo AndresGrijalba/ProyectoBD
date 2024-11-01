@@ -1,0 +1,3 @@
+01;Alimentos;2
+02;Gobierno;1
+03;Transporte;1

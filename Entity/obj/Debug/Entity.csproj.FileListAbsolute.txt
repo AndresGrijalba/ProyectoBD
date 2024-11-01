@@ -1,0 +1,6 @@
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\Entity\bin\Debug\Entity.dll
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\Entity\bin\Debug\Entity.pdb
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\Entity\obj\Debug\Entity.dll
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\Entity\obj\Debug\Entity.pdb
