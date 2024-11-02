@@ -21,7 +21,7 @@ namespace GUI.Pages
     /// <summary>
     /// Lógica de interacción para Page1.xaml
     /// </summary>
-    public partial class Page1 : Page
+    public partial class Clientes : Page
     {
         public List<Cliente> cliente = null;
 

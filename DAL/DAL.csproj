@@ -80,6 +80,7 @@
   <ItemGroup>
     <Compile Include="ClienteDAL.cs" />
     <Compile Include="DatabaseConnection.cs" />
+    <Compile Include="ProductosDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

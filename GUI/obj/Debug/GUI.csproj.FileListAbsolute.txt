@@ -50,3 +50,14 @@ C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB
 C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\GUI\obj\Debug\Pages\Page1.g.cs
 C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\GUI\obj\Debug\Pages\Page1.baml
+C:\Users\Valeri\OneDrive\Desktop\ProyectoBD\ProyectoBD\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Valeri\OneDrive\Desktop\ProyectoBD\ProyectoBD\GUI\obj\Debug\Styles\ButtonStyles.baml
+C:\Users\Valeri\OneDrive\Desktop\ProyectoBD\ProyectoBD\GUI\obj\Debug\Themes\LightTheme.baml
+C:\Users\Valeri\OneDrive\Desktop\ProyectoBD\ProyectoBD\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Valeri\OneDrive\Desktop\ProyectoBD\ProyectoBD\GUI\obj\Debug\Pages\Page1.g.cs
+C:\Users\Valeri\OneDrive\Desktop\ProyectoBD\ProyectoBD\GUI\obj\Debug\Pages\Page2.g.cs
+C:\Users\Valeri\OneDrive\Desktop\ProyectoBD\ProyectoBD\GUI\obj\Debug\App.g.cs
+C:\Users\Valeri\OneDrive\Desktop\ProyectoBD\ProyectoBD\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Valeri\OneDrive\Desktop\ProyectoBD\ProyectoBD\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Valeri\OneDrive\Desktop\ProyectoBD\ProyectoBD\GUI\obj\Debug\GUI.exe
+C:\Users\Valeri\OneDrive\Desktop\ProyectoBD\ProyectoBD\GUI\obj\Debug\GUI.pdb
